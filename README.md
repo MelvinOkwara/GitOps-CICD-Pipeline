@@ -54,4 +54,4 @@ Verification of the live environment showing pods running successfully across th
 
 ## 👤 Author
 **Melvin Okwara**
-*DevOps & Cloud Engineering Student*
+*DevOps & Cloud Engineer*
